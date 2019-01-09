@@ -2,4 +2,5 @@
 echo " hari is good boy"
 sleep 5
 echo "Hari is a bad boy"
+df -h
 exit 0
